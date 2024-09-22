@@ -1,0 +1,10 @@
+D:\Laboratorna5\Laboratorna5\bin\Debug\Laboratorna5.exe.config
+D:\Laboratorna5\Laboratorna5\bin\Debug\Laboratorna5.exe
+D:\Laboratorna5\Laboratorna5\bin\Debug\Laboratorna5.pdb
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.csproj.AssemblyReference.cache
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.Form1.resources
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.Properties.Resources.resources
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.csproj.GenerateResource.cache
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.csproj.CoreCompileInputs.cache
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.exe
+D:\Laboratorna5\Laboratorna5\obj\Debug\Laboratorna5.pdb
